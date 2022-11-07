@@ -1,4 +1,3 @@
-// для файла, расположенного по адресу C:\Users\Admin\Desktop\nodejs-basic\index.js
 const path = require('path');
 const fs = require('fs');
 
